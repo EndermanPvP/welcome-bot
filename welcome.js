@@ -3,7 +3,7 @@ module.exports = (client) => {
     client.on("guildMemberAdd", (member) => {
         console.log(member)
 
-        const message = `Hey <@${member.id}>, welcome to **TerrorMC**!`;
+        const message = `Hey <@${member.id}>, welcome to **Your server**!`;//Edit the messages in ./leave.js too!
 
         const channel = member.guild.channels.cache.get(channelId);
         channel.send(message);
