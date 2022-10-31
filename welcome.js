@@ -1,4 +1,4 @@
-//Make sure you configure leave.js too!
+//Make sure you configure bye.js too!
 module.exports = (client) => {
     const channelId = "1035944845749006366";
     client.on("guildMemberAdd", (member) => {
