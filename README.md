@@ -1,4 +1,4 @@
-[![discord](https://discord.com/api/guilds/1034911636944851024/embed.png)](https://discord.gg/E5gy5f39XM)
+[![Github All Releases](https://img.shields.io/github/downloads/EndermanPvP/welcome-bot/total.svg)]()
 
 **YOU NEED TO HAVE NODEJS 16+!**
 
