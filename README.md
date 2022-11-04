@@ -1,5 +1,3 @@
-[![Github All Releases](https://img.shields.io/github/downloads/EndermanPvP/welcome-bot/total.svg)]()
-
 **YOU NEED TO HAVE NODEJS 16+!**
 
 
