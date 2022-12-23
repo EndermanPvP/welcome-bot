@@ -4,7 +4,7 @@ const leave = require("./leave")
 const client = new Discord.Client({intents: ["GUILDS", "GUILD_MESSAGES", "GUILD_PRESENCES", "GUILD_MEMBERS", "GUILD_MESSAGE_REACTIONS"]});
 
 client.on("ready", () => {
-    console.log("The but is now online!", "Bot made by https://github.com/EndermanPvP"/*Do not remove credits*/);
+    console.log("The bot is now online!", "Bot made by https://github.com/EndermanPvP"/*Do not remove credits*/);
     welcome(client);
     leave(client);
 });
